@@ -10,7 +10,7 @@ function CoverLetter(props){
         <section className="flex justify-between flex-wrap">
           <div className=" flex flex-col justify-between">
             <h1 className="text-xs font-bold text-[#0B58F4]">{'Nicholas Okeke'}</h1>
-            <p className="font-bold">Frontend Developer</p>
+            <p className="font-bold">Frontend Developer...</p>
           </div>
           <div className="flex flex-col justify-between">
             <p>{'linkedIn.com/nicholas-okeke'}</p>
